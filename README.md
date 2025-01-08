@@ -3,6 +3,7 @@ It replaces traditional passwords with OTP-based login and signup, where users r
 The system emphasizes simplicity and functionality in a non-GUI environment.
 
 requirements:
-->mysql(8.0.33)
+->mysql(8.0.33)     
+
 ->intellj IDEA
 
