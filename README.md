@@ -7,3 +7,6 @@ requirements:
 
 ->intellj IDEA
 
+![image](https://github.com/user-attachments/assets/11237aaf-20c1-4d12-b3bc-f75b961b0f6d)
+
+
