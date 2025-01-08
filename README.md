@@ -7,6 +7,11 @@ requirements:
 
 ->intellj IDEA
 
+basic ui:
 ![image](https://github.com/user-attachments/assets/11237aaf-20c1-4d12-b3bc-f75b961b0f6d)
+signup ui:
+![image](https://github.com/user-attachments/assets/e8692ab2-5d8a-4a99-be12-960246b129b6)
+opt services:
+![image](https://github.com/user-attachments/assets/1dc45155-c0b2-4ffa-a716-c5af6faf2fff)
 
 
